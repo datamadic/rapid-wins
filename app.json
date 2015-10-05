@@ -1,0 +1,22 @@
+{
+    "devtools_port": 9090,
+    "startup_app": {
+        "name": "Whatever",
+        "description": "OpenFin POC",
+        "url": "http://local:8080/index.html",
+        "uuid": "OpenfinPOC",
+        "autoShow": true,
+        "frame": true
+    },
+    "runtime": {
+        "arguments": "--v=1   --disable-legacy-window",
+        "__version": "4.40.7.8",
+        "version": "stable"
+    },
+    "shortcut": {
+        "company": "OpenFin",
+        "description": "OpenfinPOC",
+        "icon": "http://datamadic.github.io/of-demo-seed/cdn/openfin.ico",
+        "name": "Whatever"
+    }
+}
